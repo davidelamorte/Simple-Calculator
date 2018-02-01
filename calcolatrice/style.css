@@ -1,0 +1,18 @@
+body {
+  background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/S8QtKbypitbuumz4/videoblocks-geometrical-technology-futuristic-abstract-and-science-color-background_h0ka6kv-z_thumbnail-full01.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  overflow-x: hidden;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.container {
+  margin-top: 18%
+}
+
+.card {
+   box-shadow: 2px 5px 4px black;
+}
